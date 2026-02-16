@@ -10,5 +10,5 @@ license = "MIT OR Apache-2.0"
 categories = ["gui"]
 
 [dependencies]
-imgui = { git = "https://github.com/zcharo99/imgui-rs", version = "0.12" }
+imgui = { git = "https://github.com/zcharo99/imgui-rs", rev = "a7f7345b4529f439cdeeab6e83c0f586af7d1831" }
 winit = { version = "0.30", default-features = false }
